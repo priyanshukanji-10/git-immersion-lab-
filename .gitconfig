@@ -1,5 +1,6 @@
-[alias]
-co = checkout
+  .gitconfig
+  [alias]
+  co = checkout
   ci = commit
   st = status
   br = branch
