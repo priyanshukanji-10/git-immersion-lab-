@@ -1,10 +1,6 @@
-```
+`
 mkdir lib
 git mv hello.rb lib
 git status
-```
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/priyanshukanji-10/git-immersion-lab-/tree/7b78b0148f306a449de4c81afc0b12f6cbede014/images">
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/priyanshukanji-10/git-immersion-lab-/tree/7b78b0148f306a449de4c81afc0b12f6cbede014/images">
-<img alt="This is a output screenshot." src="https://github.com/priyanshukanji-10/git-immersion-lab-/tree/7b78b0148f306a449de4c81afc0b12f6cbede014/images">
-</picture>
+`
+![image](https://github.com/priyanshukanji-10/git-immersion-lab-/blob/70b6cfdc0188115f6c9567878a3a1deef01a0233/images/Screenshot%20(37).png)
