@@ -4,4 +4,4 @@ mkdir lib
 git mv hello.rb lib
 git status
 ```
-![image](https://github.com/priyanshukanji-10/git-immersion-lab-/blob/70b6cfdc0188115f6c9567878a3a1deef01a0233/images/Screenshot%20(37).png?raw=true)
+![image](https://github.com/priyanshukanji-10/git-immersion-lab-/blob/70b6cfdc0188115f6c9567878a3a1deef01a0233/images/Screenshot%20(37).png)
